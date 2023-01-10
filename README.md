@@ -3,6 +3,8 @@
 This is an exercise from MIT Coding Course for Womxn, Module 8. 
 Two cartoon eyes track the movement of your mouse as you load this onto a browser. To use:(https://bgpcoder.github.io/Eyes-Tracking/eyes.html)
 
+Future improvements: I would love change the colors of the eyes and background periodically. This could be a pleasant screen saver when you need some artificial company. 
+
 MIT License
 
 Copyright (c) 2023 Graczyk
