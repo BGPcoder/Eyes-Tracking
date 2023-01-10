@@ -1,7 +1,7 @@
 # Eyes-Tracking
 
 This is an exercise from MIT Coding Course for Womxn, Module 8. 
-Two cartoon eyes track the movement of your mouse as you load this onto a browser. To use, click on the link in "about" on my github page or load the html file to your browser. 
+Two cartoon eyes track the movement of your mouse as you load this onto a browser. To use:(https://bgpcoder.github.io/Eyes-Tracking/eyes.html)
 
 MIT License
 
